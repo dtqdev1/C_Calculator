@@ -1,2 +1,3 @@
 # C_Calculator
-A calculator made in C languague. This is my first project in C languague.
+• This is my small project made in C languague.
+• This calculator supports 2 operation. Addition and Subtraction.
